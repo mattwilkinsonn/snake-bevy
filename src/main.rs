@@ -2,7 +2,6 @@ use bevy::app::Events;
 use bevy::prelude::*;
 use bevy::render::pass::ClearColor;
 use rand::prelude::random;
-use std::fmt::Pointer;
 use std::time::Duration;
 
 const ARENA_WIDTH: u32 = 10;
